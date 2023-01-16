@@ -6,7 +6,7 @@ During my free time, I love trying new foods *Another reason why I Love LA, the 
 ## Course Description
 This course is designed to: 
 +Provide students with tools to learn how to critically evaluate and analyze spatial data
-+Learn how to navigate GIS mapping fundamentals 
+*Learn how to navigate GIS mapping fundamentals 
 ## Project Ideas 
 I am open to different topics and am not set and stone what type of project I would like to pursue, I am passionate about environmental justice, climate change, housing, and the intersection of each that leave populations susceptible to life threatening conditions. I have worked with projects focusing on our unhoused population and individuals experiencing homelessness for the last few years, and am still passionate about. 
 ## Course Objective 
