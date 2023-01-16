@@ -7,7 +7,7 @@ I also like being a tourist in my own city and exploring new areas and places th
 
 Here is one of my favorite views that I visit when I am feeling most stressed: Inspiration Point in Newport Beach! 
 
-(https://user-images.githubusercontent.com/122328247/212580625-ae049913-3e0d-4f0d-9613-23f5f737e20c.jpeg)
+![Inspiration Point](https://user-images.githubusercontent.com/122328247/212580625-ae049913-3e0d-4f0d-9613-23f5f737e20c.jpeg)
 ## Course Description
 This course is designed to: 
 1. Provide students with tools to learn how to critically evaluate and analyze spatial data.
