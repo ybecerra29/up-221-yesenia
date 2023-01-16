@@ -19,4 +19,5 @@ I am open to different topics and am not set and stone what type of project I wo
 I am so excited to get into the world of GIS with you all this quarter and hope to gain knowledge that I feel is invaluable within this field. 
 ## Links
 My github: https://github.com/ybecerra29/up-221-yesenia/
-My repo: https://github.com/ybecerra29/up-221-yesenia/edit/main/README.md
+
+My repo: [https://github.com/ybecerra29/up-221-yesenia/edit/main/README.md]
