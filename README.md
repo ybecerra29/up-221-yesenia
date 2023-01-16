@@ -20,4 +20,4 @@ I am so excited to get into the world of GIS with you all this quarter and hope 
 ## Links
 My github: https://github.com/ybecerra29/up-221-yesenia/
 
-My repo: https://github.com/ybecerra29/up-221-yesenia/edit/main/README.md
+My repo: https://github.com/ybecerra29/up-221-yesenia/blob/main/README.md
