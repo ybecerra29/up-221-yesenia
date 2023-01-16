@@ -1,7 +1,9 @@
 # up-221-yesenia
 ## About Me
 Hi Everyone! My name is Yesenia and I am a first year MURP student *(although technically this is my second year at UCLA as a graduate student).* I am in the MPH/MURP dual degree program and started my first year with MPH coursework. I was born and raised in Southeast Los Angeles and although I love traveling and have entertained the thought of moving more times than I can count, Los Angeles just has a special place in my heart.
-During my free time, I love trying new foods *Another reason why I Love LA, the FOOD!*. I also like being a tourist in my own city and exploring new areas and places that I have never been whether locally, or traveling to different countries! 
+
+During my free time, I love trying new foods *Another reason why I Love LA, the FOOD!*. 
+I also like being a tourist in my own city and exploring new areas and places that I have never been whether locally, or traveling to different countries! 
 ![Here is one of my favorite views that I visit when I am feeling most stressed: Inspiration Point in Newport Beach!](https://user-images.githubusercontent.com/122328247/212580625-ae049913-3e0d-4f0d-9613-23f5f737e20c.jpeg)
 ## Course Description
 This course is designed to: 
